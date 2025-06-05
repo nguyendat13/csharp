@@ -35,4 +35,4 @@ A desktop application built with **WPF (Windows Presentation Foundation)** in **
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/employee-management-wpf.git
+git clone https://github.com/nguyendat13/employee-management-wpf.git
